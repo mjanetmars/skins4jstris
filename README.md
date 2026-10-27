@@ -1,4 +1,4 @@
-# Custom skins for Jstris
+# Custom skins for [Jstris](https://jstris.jezevec10.com/)
 *For use with [Jstris+](https://addons.mozilla.org/en-US/firefox/addon/jstris/)*
 
 ## Super Tetris 3 HD
