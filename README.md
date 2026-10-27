@@ -4,6 +4,8 @@
 ## Super Tetris 3 HD
 ![Super Tetris 3 HD](Super_Tetris_3_HD.png)
 
+[`Direct link to .png asset`](https://raw.githubusercontent.com/mjanetmars/skins4jstris/refs/heads/main/Super_Tetris_3_HD.png)
+
 # Credits and loicense for that
 
 * All pixel art (re)drawn by MarsCat
